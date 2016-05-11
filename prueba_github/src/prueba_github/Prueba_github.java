@@ -5,6 +5,8 @@
  */
 package prueba_github;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Alejandro
@@ -15,6 +17,8 @@ public class Prueba_github {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        JOptionPane.showMessageDialog(null, "Hola mundo, Desde GitHub");
         // TODO code application logic here
     }
     
